@@ -1,15 +1,15 @@
 # Awesome Climate Change AI Tutorials
-A list of tutorials at the intersection of AI &amp; Climate Change organized by topic.
+A list of learning material at the intersection of AI &amp; Climate Change organized by topic.
 
-# Atmospheric Physics
+## Atmospheric Physics
 
-# Biodiversity
+## Biodiversity
 
-# Urban Planning & Transportation
+## Urban Planning & Transportation
 
-# Weather Forecasting
+## Weather Forecasting
 
-# Climate Modeling
+## Climate Modeling
 
-# Oceanography
+## Oceanography
 
