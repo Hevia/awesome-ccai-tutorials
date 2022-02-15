@@ -10,6 +10,7 @@ If you would like to add a link please open up a pull request!
 - 🎙️ : Podcast
 - 📄 : Academic paper with code
 - 📚 : Textbook
+- 💰 : Paid Resource
 
 ### Communities:
 - [Climate Change AI]()
@@ -33,6 +34,6 @@ If you would like to add a link please open up a pull request!
 ## Weather Forecasting
 
 ## Climate Modeling &amp; Earth Sciences
-- [Deep Learning for Earth Sciences](https://github.com/DL4ES/DL4ES) 📄📚 :
+- [Deep Learning for Earth Sciences](https://github.com/DL4ES/DL4ES) 📄📚💰 : A Textbook organized by Deep Learning technique & how it applies to a certain problem in Earth Sciences
 
 ## Oceanography
