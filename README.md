@@ -6,6 +6,16 @@ If you would like to add a link please open up a pull request!
 ### Legend:
 - 📓 : Notebook
 - 💾 : Dataset
+- 📽️ : Video
+- 🎙️ : Podcast
+- 📄 : Academic paper with code
+- 📚 : Textbook
+
+### Communities:
+- [Climate Change AI]()
+- [Climate Action Tech]()
+- [Work on Climate]()
+
 
 ## Atmospheric Physics
 
@@ -22,4 +32,3 @@ If you would like to add a link please open up a pull request!
 ## Climate Modeling
 
 ## Oceanography
-
