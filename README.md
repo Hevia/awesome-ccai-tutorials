@@ -10,7 +10,7 @@ If you would like to add a link please open up a pull request!
 ## Urban Planning & Transportation
 
 ## Remote Sensing
--[Understanding the Amazon from space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) - An already completed kaggle competition with various example notebooks in the "code" tab.
+- [Understanding the Amazon from space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) - An already completed kaggle competition with various example notebooks in the "code" tab.
 
 ## Weather Forecasting
 
