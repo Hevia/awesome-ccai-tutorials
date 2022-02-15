@@ -24,7 +24,7 @@ If you would like to add a link please open up a pull request!
 
 ## Urban Planning & Transportation
 
-## Remote Sensing
+## Remote Sensing &amp; Geospatial 
 - [Understanding the Amazon from space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) 📓💾 : An already completed Kaggle competition with various example notebooks in the "code" tab.
 
 ## Weather Forecasting
