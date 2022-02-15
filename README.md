@@ -21,8 +21,11 @@ If you would like to add a link please open up a pull request!
 
 ## Biodiversity
 - [Identifying Coral eating starfish to protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef) 📓💾 : A Kaggle competition with example code & data that has you identifying starfish from underwater photos. 
+- [CoralNet, annotated images of Coral & accompanying models](https://coralnet.ucsd.edu/) 📓💾📄 : A site with a huge amount of annotated Coral photos, along with papers & models.
 
 ## Urban Planning & Transportation
+
+- [Predicting how much energy a building will consume](https://www.kaggle.com/c/ashrae-energy-prediction) 📓💾 : Kaggle competition hosted by ASHRAE 
 
 ## Remote Sensing &amp; Geospatial 
 - [Understanding the Amazon from space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) 📓💾 : An already completed Kaggle competition with various example notebooks in the "code" tab.
