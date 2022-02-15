@@ -32,6 +32,7 @@ If you would like to add a link please open up a pull request!
 
 ## Weather Forecasting
 
-## Climate Modeling
+## Climate Modeling &amp; Earth Sciences
+- [Deep Learning for Earth Sciences](https://github.com/DL4ES/DL4ES) 📄📚 :
 
 ## Oceanography
