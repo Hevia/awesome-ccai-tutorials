@@ -32,6 +32,7 @@ If you would like to add a link please open up a pull request!
 - [Understanding the Amazon from space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) 📓💾 : An already completed Kaggle competition with various example notebooks in the "code" tab.
 
 ## Weather Forecasting
+- [Skillful Precipitation Nowcasting Using Deep Generative Models of Radar](https://www.nature.com/articles/s41586-021-03854-z) 📄📚 : A paper by DeepMind that shows an accurate & explainable approach to Nowcasting using Deep Generative models. The code can be found [here.](https://github.com/deepmind/deepmind-research/tree/master/nowcasting) A shortened blog post of the paper is also found [here.](https://deepmind.com/blog/article/nowcasting)
 
 ## Climate Modeling &amp; Earth Sciences
 - [Deep Learning for Earth Sciences](https://github.com/DL4ES/DL4ES) 📄📚💰 : A Textbook organized by Deep Learning technique & how it applies to a certain problem in Earth Sciences
