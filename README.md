@@ -39,5 +39,6 @@ If you would like to add a link please open up a pull request!
 
 ## Climate Modeling &amp; Earth Sciences
 - [Deep Learning for Earth Sciences](https://github.com/DL4ES/DL4ES) 📄📚💰 : A Textbook organized by Deep Learning technique & how it applies to a certain problem in Earth Sciences
+- [Deep Unsupervised Learning for Climate Informatics with Claire Monteleoni](https://twimlai.com/deep-unsupervised-learning-for-climate-informatics-with-claire-monteleoni/) 🎙️ : Great discussion on how unsupervised learning techniques can be used to address pressing climate problems. 
 
 ## Oceanography
