@@ -25,7 +25,7 @@ If you would like to add a link please open up a pull request!
 - [CoralNet, annotated images of Coral & accompanying models](https://coralnet.ucsd.edu/) 📓💾📄 : A site with a huge amount of annotated Coral photos, along with papers & models.
 
 ## Climate Communication
-- [Visualizing Climate Impact with GANs w/ Sasha Luccioni](https://twimlai.com/visualizing-climate-impact-with-gans-w-sasha-luccioni/) 🎙️ : A podcast on how GANs can help us visualize how climate change might impact the places we live. A demo of this project can be found [here.](https://thisclimatedoesnotexist.com/)
+- [Visualizing Climate Impact with GANs w/ Sasha Luccioni](https://twimlai.com/visualizing-climate-impact-with-gans-w-sasha-luccioni/) 🎙️ : A podcast on how GANs can help us visualize how climate change might impact the places we live. A demo of this project can be found [here.](https://thisclimatedoesnotexist.com/). Code for some of the GANs can be found [here.](https://github.com/cc-ai)
 
 ## Urban Planning & Transportation
 
