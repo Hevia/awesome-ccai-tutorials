@@ -36,6 +36,7 @@ A curated list of open technology projects to sustain a stable climate, energy s
 
 ## Urban Planning & Transportation
 - [Predicting how much energy a building will consume](https://www.kaggle.com/c/ashrae-energy-prediction) 📓💾 : Kaggle competition hosted by ASHRAE 
+- [WiDS Datathon 2022 – CCAI Tutorial: Building Load Forecasting](https://colab.research.google.com/drive/1o86HKTerVnEi0xjlKOj7uoYkS9fmnrRC) 📓💾 : A tutorial about building load forecast &amp; building energy prediction. Gives a primer on the needed domain knowledge as well.
 
 ## Electricity Systems &amp; Renewables
 - [Forecasting Renewable Energy Generation with Streamlit and sktime](https://towardsdatascience.com/forecasting-renewable-energy-generation-with-streamlit-and-sktime-ab789ef1299f) 📓 : Developing a Streamlit web app that provides forecasts for renewable energy generation in EU countries.
