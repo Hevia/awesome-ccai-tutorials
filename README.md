@@ -21,6 +21,7 @@ If you would like to add a link please open up a pull request!
 - [OpenSustain.Tech](https://opensustain.tech/) : A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources..
 A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources.
 - [ClimateBase](https://climatebase.org/) : Climate focused job site.
+- [Climate Change AI Wiki](https://wiki.climatechange.ai/wiki/Welcome_to_the_Climate_Change_AI_Wiki) : A wiki that covers various climate change topics with links to additional datasets, & learning materials that might not be covered here.
 
 ## Biodiversity
 - [Identifying Coral eating starfish to protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef) 📓💾 : A Kaggle competition with example code & data that has you identifying starfish from underwater photos. 
