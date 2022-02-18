@@ -4,7 +4,7 @@ A list of learning material at the intersection of AI &amp; Climate Change organ
 If you would like to add a link please open up a pull request!
 
 ### Legend:
-- 📓 : Notebook
+- 📓 : Notebook/Code
 - 💾 : Dataset
 - 📽️ : Video
 - 🎙️ : Podcast
@@ -32,6 +32,10 @@ A curated list of open technology projects to sustain a stable climate, energy s
 
 ## Urban Planning & Transportation
 - [Predicting how much energy a building will consume](https://www.kaggle.com/c/ashrae-energy-prediction) 📓💾 : Kaggle competition hosted by ASHRAE 
+
+## Electricity Systems &amp; Renewables
+- [Forecasting Renewable Energy Generation with Streamlit and sktime](https://towardsdatascience.com/forecasting-renewable-energy-generation-with-streamlit-and-sktime-ab789ef1299f) 📓 : Developing a Streamlit web app that provides forecasts for renewable energy generation in EU countries
+
 
 ## Remote Sensing &amp; Geospatial 
 - [Understanding the Amazon from space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) 📓💾 : An already completed Kaggle competition with various example notebooks in the "code" tab.
