@@ -29,12 +29,13 @@ A curated list of open technology projects to sustain a stable climate, energy s
 
 ## Climate Communication
 - [Visualizing Climate Impact with GANs w/ Sasha Luccioni](https://twimlai.com/visualizing-climate-impact-with-gans-w-sasha-luccioni/) 🎙️ : A podcast on how GANs can help us visualize how climate change might impact the places we live. A demo of this project can be found [here.](https://thisclimatedoesnotexist.com/). Code for some of the GANs can be found [here.](https://github.com/cc-ai)
+- [Visualizing Climate Change Data with Python](https://towardsdatascience.com/visualizing-climate-change-data-with-python-74ea5bac8756) 📓 : Creating climate change graphs with the xarray and cartopy Python libraries.
 
 ## Urban Planning & Transportation
 - [Predicting how much energy a building will consume](https://www.kaggle.com/c/ashrae-energy-prediction) 📓💾 : Kaggle competition hosted by ASHRAE 
 
 ## Electricity Systems &amp; Renewables
-- [Forecasting Renewable Energy Generation with Streamlit and sktime](https://towardsdatascience.com/forecasting-renewable-energy-generation-with-streamlit-and-sktime-ab789ef1299f) 📓 : Developing a Streamlit web app that provides forecasts for renewable energy generation in EU countries
+- [Forecasting Renewable Energy Generation with Streamlit and sktime](https://towardsdatascience.com/forecasting-renewable-energy-generation-with-streamlit-and-sktime-ab789ef1299f) 📓 : Developing a Streamlit web app that provides forecasts for renewable energy generation in EU countries.
 
 
 ## Remote Sensing &amp; Geospatial 
