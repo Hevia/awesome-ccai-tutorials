@@ -3,6 +3,8 @@ A list of learning material at the intersection of AI &amp; Climate Change organ
 
 If you would like to add a link please open up a pull request!
 
+**Remeber**! Use this list as a way to guide your learning. Pick something & get started! Do not succumb to [analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis) or the [collector’s fallacy](https://zettelkasten.de/posts/collectors-fallacy/). Focus on **doing**.
+
 ### Legend:
 - 📓 : Notebook/Code
 - 💾 : Dataset
