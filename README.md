@@ -24,6 +24,7 @@ A curated list of open technology projects to sustain a stable climate, energy s
 - [Climate Change AI Wiki](https://wiki.climatechange.ai/wiki/Welcome_to_the_Climate_Change_AI_Wiki) : A wiki that covers various climate change topics with links to additional datasets, & learning materials that might not be covered here.
 - [Climate Change AI Blog](https://www.climatechange.ai/blog?) : A blog covering AI applications in climate, paper summaries, & updates from the CCAI community. 
 - [Awesome Forests](https://github.com/blutjens/awesome-forests) A curated list of ground-truth/validation/in situ forest datasets for the forest-interested machine learning community.
+- [Geospatial Jobs](https://geospatial.substack.com/) : A bi-weekly newsletter listing geospatial career opportunities, industry updates, and useful resources.
 
 ## Biodiversity
 - [Identifying Coral eating starfish to protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef) 📓💾 : A Kaggle competition with example code & data that has you identifying starfish from underwater photos. 
